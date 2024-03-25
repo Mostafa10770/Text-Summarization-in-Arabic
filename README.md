@@ -52,7 +52,7 @@
 - LICENSE                      # License information
 </pre>
 
-<p>Our participation in A competition and finals</p>
+<p>Our participation in AIC competition and it's finals</p>
 
 
 <img src="https://aic.conferences.ekb.eg/data/cnf1698082066/imfiles/img1700739032.jpg" alt="Image1" style="width: 418px;"/> <img src="https://aic.conferences.ekb.eg/data/cnf1698082066/imfiles/img1700739252.jpg" alt="chatbot" style="width: 400px;"/>
