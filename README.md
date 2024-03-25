@@ -52,6 +52,13 @@
 - LICENSE                      # License information
 </pre>
 
+<p>Our participation in A competition and finals</p>
+<img src="https://aic.conferences.ekb.eg/data/cnf1698082066/imfiles/img1700739032.jpg"  width="500" alt="AIC-Competiontion">
+<img src="https://aic.conferences.ekb.eg/data/cnf1698082066/imfiles/img1700739252.jpg"  width="500" alt="AIC-Competiontion">
+
+
+
+
 <h2>Contributing</h2>
 
 <p>Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.</p>
@@ -59,6 +66,7 @@
 <h2>License</h2>
 
 <p>This project is licensed under the MIT License.</p>
+
 
 <h2>Contact</h2>
 
